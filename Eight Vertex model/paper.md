@@ -6,5 +6,7 @@
 ## https://www.sciencedirect.com/science/article/abs/pii/0003491673904417
 ## Eight-Vertex Model in Lattice Statistics
 ## https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.26.832
+## One-Dimensional Anisotropic Heisenberg Chain
+## https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.26.834
 ## Partition function of the Eight-Vertex lattice model---Baxter 
 ## https://www.sciencedirect.com/science/article/abs/pii/0003491672903351
